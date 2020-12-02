@@ -50,4 +50,9 @@ public class AppTest
     {
         assertTrue( true );
     }
+    
+    public void testAppN()
+    {
+        assertTrue( true );
+    }
 }
